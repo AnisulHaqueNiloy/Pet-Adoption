@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.activebtn {
+  background-color: #0e7a811a;
+  border: 1.5px solid rgb(14, 122, 129);
+  border-radius: 120px;
+}
